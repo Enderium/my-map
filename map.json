@@ -23,7 +23,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"JitsiRoom",
+                 "name":"jitsiRoom",
                  "type":"string",
                  "value":"Testarea"
                 }],
